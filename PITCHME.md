@@ -17,7 +17,6 @@
 ### Tujuan pengembangan <span class="gold">Portal Banten</span> 
 Untuk mempermudah masyarakat memperoleh akses informasi. Untuk mencapai sasaran tersebut maka semua informasi perlu dikumpulkan dalam satu wadah portal web yang dapat dengan mudah diakses oleh masyarakat.
 
-
 ---
 
 ### Pengertian aplikasi <span class="gold">Portal Banten</span> 
@@ -110,6 +109,4 @@ Untuk memulai akses terhadap aplikasi Portal Banten. Buka web browser (IE, Mozil
 # Dinas <span class="gold">KominfoST</span>
 
 #### Seksi Pengembangan Aplikasi Informatika.*
-
-
 
