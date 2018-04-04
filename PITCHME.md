@@ -163,16 +163,21 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
 - Peraturan Gubernur Banten No.42 Tahun 2016
 - Peraturan Gubernur Banten No.38 Tahun 2017
 ---
-#### Contoh Penggunaan Aplikasi
+### Contoh Penggunaan Aplikasi
 
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 - Registrasi Akun Pengguna
 ![Registrasi Akun](/assets/image/ckan-1.jpg)
-
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
+- Login Aplikasi
+![Login Aplikasi](/assets/image/ckan-2.jpg)
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+
 
 ## Terimakasih
