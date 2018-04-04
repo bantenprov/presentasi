@@ -1,5 +1,6 @@
 ### Banten Satu Data
 ##### DATA BANTEN DALAM SATU PORTAL
+---?image=assets/bg.jpg
 
 ---
 @title[Satu Data]
