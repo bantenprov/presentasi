@@ -93,7 +93,7 @@ Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 - Dokumen teknis
 - Produk hukum
 ---
-### Master tabel
+Master tabel
 <br>
 Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. adapun master tabel yang dipergunakan diantaranya adalah :
 
