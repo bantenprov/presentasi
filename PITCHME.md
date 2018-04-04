@@ -17,7 +17,7 @@
 
 @title[Open Data]
 <br>
-## Kriteria penting dari data terbuka adalah :
+### Kriteria dari data terbuka adalah :
 +++
 - Ketersediaan dan akses: Data harus tersedia utuh dan bebas biaya. Akan lebih baik jika data dapat diunduh melalui internet. Data juga harus tersedia dalam bentuk yang mudah digunakan dan dapat diolah kembali.
 +++
