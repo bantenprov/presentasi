@@ -9,10 +9,10 @@
 <span class="aside">Prinsip data terbuka  dalam merilis data</span>
 ---
 
-### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
+#### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
 <br>
 +++
-### Data tersedia dalam format terbuka yang mudah digunakan kembali dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah.
+#### Data tersedia dalam format terbuka yang mudah digunakan kembali dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah, serta untuk meningkatkan partisipasi masyarakat dalam mengawal pembangunan.
 ---
 
 @title[Fork Repository]
