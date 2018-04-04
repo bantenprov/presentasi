@@ -31,9 +31,7 @@
 ---
 
 Manfaat dari Satu Data:
-> Meningkatkan Kualitas Kebijakan Pemerintah
-+++
-Data merupakan komponen penting dalam pengambilan keputusan. Melalui insiatif Satu Data, efektivitas dan efisiensi dari tata kelola data pemerintah dapat ditingkatkan sehingga data tersebut menjadi lebih akurat. Asupan data yang akurat akan menciptakan kebijakan publik yang lebih tepat sasaran dan tepat guna.
+> Meningkatkan Kualitas Kebijakan Pemerintah <br> Data merupakan komponen penting dalam pengambilan keputusan. Melalui insiatif Satu Data, efektivitas dan efisiensi dari tata kelola data pemerintah dapat ditingkatkan sehingga data tersebut menjadi lebih akurat. Asupan data yang akurat akan menciptakan kebijakan publik yang lebih tepat sasaran dan tepat guna.
 
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
