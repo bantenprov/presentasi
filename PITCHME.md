@@ -165,7 +165,7 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
 ---
 ### Panduan Aplikasi
 - Registrasi Akun Pengguna
-![Registrasi Akun](/assets/image/ckan-1.png)
+![Registrasi Akun](/assets/image/ckan-1.jpg)
 +++
 
 ## Terimakasih
