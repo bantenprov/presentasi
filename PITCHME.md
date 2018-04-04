@@ -1,4 +1,3 @@
----?image=assets/image/satudata.jpg
 ### Banten Satu Data
 ##### DATA BANTEN DALAM SATU PORTAL
 <a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a> website.
@@ -125,6 +124,12 @@ Data statistika yang dapat disimpan dalam Banten Satu Data :
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
+<ul>
+<li class="fragment">**Get** the *word* out</li>
+<li class="fragment">- Angka Partisipasi Kasar [link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar)</li>
+<li class="fragment">Presentations for everyone</li>
+<li class="fragment">For <span style="color:red">everyone</span>!</li>
+</ul>
 - Angka Partisipasi Kasar <br>
 https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar
 
