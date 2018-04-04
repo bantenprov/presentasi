@@ -85,6 +85,7 @@ Manfaat dari Satu Data :
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-right]
 +++
+---
 
 Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 <br>
