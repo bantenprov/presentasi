@@ -82,7 +82,10 @@ Manfaat dari Satu Data :
 
 @title[Konten]
 ### Konten Banten Satu Data
-<br>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
++++
+
 Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 <br>
 - Master tabel
