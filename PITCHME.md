@@ -163,4 +163,9 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
 - Peraturan Gubernur Banten No.42 Tahun 2016
 - Peraturan Gubernur Banten No.38 Tahun 2017
 ---
+### Panduan Aplikasi
+- Registrasi Akun Pengguna
+![WPS Writter](/assets/image/ckan-1.png)
++++
+
 ## Terimakasih
