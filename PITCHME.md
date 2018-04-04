@@ -105,5 +105,15 @@ Master tabel yang dipergunakan diantaranya adalah : <br>
 - Tabel titik koordinat Ibukota Kecamatan
 - Tabel titik koordinat Desa / kelurahan
 ---
-
+### Data statistik
+Data - data statistik diperkirakan akan menjadi pengisi konten terbanyak pada Banten satu data, mengingat  kriteris dan karakteristik satu data didepan.
+@fa[arrow-down]
++++
+Data statistika yang dapat disimpan dalam Banten Satu Data diantaranya :
+- Angka Partisipasi Kasar
+- Angka Partisipasi Murni
+- Laju Inflasi berdasarkan Kelompok Pengeluaran
+- Rasio Ketersediaan Sekolah
+- Persentase Penduduk Bekerja dan masih banyak lagi
+---
 ## Terimakasih
