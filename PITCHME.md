@@ -86,9 +86,7 @@ Manfaat dari Satu Data :
 @fa[arrow-right]
 ---
 
-Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
-<br>
-
+Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah : <br>
 - Master tabel
 - Data statistik
 - Dokumen teknis
