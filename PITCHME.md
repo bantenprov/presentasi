@@ -128,4 +128,9 @@ Data statistika yang dapat disimpan dalam Banten Satu Data diantaranya :
 @fa[arrow-right]
 ---
 
+### Produk hukum
+
+- Peraturan Gubernur Banten No.42 Tahun 2016
+- Peraturan Gubernur Banten No.38 Tahun 2017
+---
 ## Terimakasih
