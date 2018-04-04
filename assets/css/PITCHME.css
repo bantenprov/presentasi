@@ -33,7 +33,7 @@ body .reveal h1 {
 .reveal .slides section .code-presenting-annotation {
   color: white;
   background: #01155c;
-  padding: 1px 15px;
+  padding: 20px 15px;
   border-radius: 15px;
   opacity: 0.75 !important;
   font-size: 50% !important;
