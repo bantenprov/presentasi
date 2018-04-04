@@ -19,13 +19,13 @@
 <br>
 ### Kriteria dari data terbuka adalah :
 +++
-- > Ketersediaan dan akses: Data harus tersedia utuh dan bebas biaya. Akan lebih baik jika data dapat diunduh melalui internet. Data juga harus tersedia dalam bentuk yang mudah digunakan dan dapat diolah kembali.
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+> Ketersediaan dan akses: Data harus tersedia utuh dan bebas biaya. Akan lebih baik jika data dapat diunduh melalui internet. Data juga harus tersedia dalam bentuk yang mudah digunakan dan dapat diolah kembali.
+@fa[arrow-down]
 +++
-- Penggunaan dan pendistribusian: Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
+> Penggunaan dan pendistribusian: Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
 +++
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-- Terbuka untuk umum: Setiap orang bebas menggunakan dan mendistribusikan kembali dataset. Tidak diperkenankan adanya diskriminasi atas bidang usaha, orang, atau kelompok.
+@fa[arrow-down]
+> Terbuka untuk umum: Setiap orang bebas menggunakan dan mendistribusikan kembali dataset. Tidak diperkenankan adanya diskriminasi atas bidang usaha, orang, atau kelompok.
 ---
 
 Step 1. clone repository github
