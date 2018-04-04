@@ -83,6 +83,7 @@ Manfaat dari Satu Data :
 
 @title[Konten]
 ### Konten Banten Satu Data
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-right]
 ---
@@ -109,7 +110,6 @@ Master tabel yang dipergunakan diantaranya adalah : <br>
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-right]
 +++
----
 
 ### Data statistik
 Data - data statistik diperkirakan akan menjadi pengisi konten terbanyak pada Banten satu data, mengingat  kriteris dan karakteristik satu data didepan.
@@ -127,5 +127,5 @@ Data statistika yang dapat disimpan dalam Banten Satu Data diantaranya :
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-right]
 +++
----
+
 ## Terimakasih
