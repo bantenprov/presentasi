@@ -88,6 +88,7 @@ Manfaat dari Satu Data :
 
 Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 <br>
+
 - Master tabel
 - Data statistik
 - Dokumen teknis
