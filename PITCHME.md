@@ -123,7 +123,12 @@ Data statistika yang dapat disimpan dalam Banten Satu Data :
 @fa[arrow-down]
 +++
 
-- Angka Partisipasi Kasar
+Angka Partisipasi Kasar
+> https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+
 - Angka Partisipasi Murni
 - Laju Inflasi berdasarkan Kelompok Pengeluaran
 - Rasio Ketersediaan Sekolah
