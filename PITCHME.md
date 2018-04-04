@@ -96,14 +96,14 @@ Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. <br>
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
----
++++
 Master tabel yang dipergunakan diantaranya adalah : <br>
-- tabel kelompok pengguna aplikasi
-- tabel kode dan nama Organisasi Perangkat Daerah
-- tabel titik koordinat Ibukota provisi
-- tabel titik koordinat Ibukota Kabupaten / Kota
-- tabel titik koordinat Ibukota Kecamatan
-- tabel titik koordinat Desa / kelurahan
+- Tabel kelompok pengguna aplikasi
+- Tabel kode dan nama Organisasi Perangkat Daerah
+- Tabel titik koordinat Ibukota provisi
+- Tabel titik koordinat Ibukota Kabupaten / Kota
+- Tabel titik koordinat Ibukota Kecamatan
+- Tabel titik koordinat Desa / kelurahan
 ---
 
 ## Terimakasih
