@@ -14,6 +14,8 @@
 
 #### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
 <br>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
 +++
 #### Data tersedia dalam format terbuka yang mudah digunakan kembali dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah, serta untuk meningkatkan partisipasi masyarakat dalam mengawal pembangunan.
 
