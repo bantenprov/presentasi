@@ -170,11 +170,13 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
 +++
 - Registrasi Akun Pengguna
 ![Registrasi Akun](/assets/image/ckan-1.jpg)
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 - Login Aplikasi
 ![Login Aplikasi](/assets/image/ckan-2.jpg)
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
