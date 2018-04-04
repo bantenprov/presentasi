@@ -20,10 +20,12 @@
 ### Kriteria dari data terbuka adalah :
 +++
 - Ketersediaan dan akses : <br> Data harus tersedia utuh dan bebas biaya. Akan lebih baik jika data dapat diunduh melalui internet. Data juga harus tersedia dalam bentuk yang mudah digunakan dan dapat diolah kembali.
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 - Penggunaan dan pendistribusian : <br> Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
@@ -42,14 +44,21 @@ Manfaat dari Satu Data :
 +++
 - Melalui Satu Data, data standar dan metadata baku dan dapat memperbaiki alur koordinasi dan interoperabilitas data antar instansi. Pusat Data dan Informasi (Pusdatin) dari setiap instansi akan bertindak sebagai perpanjangan tangan pemerintah pusat dan pengelola utama data internal.
 
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 > Meningkatkan Akuntabilitas Badan Publik
 +++
 - Satu  Data dapat mendukung pengawasan publik terhadap pemerintah dan membantu mengurangi tindakan korupsi dengan memungkinkan adanya transparansi yang lebih besar, karena data terbuka memudahkan proses pemantauan kegiatan pemerintah, seperti pengawasan pengeluaran anggaran dan dampak yang dihasilkan dari anggaran tersebut.
 
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+> Peningkatan Layanan Publik
++++
+- Satu Data dapat memberikan akses kepada masyarakat untuk menggunakan data sesuai dengan kebutuhannya  dan berkontribusi pada peningkatan pelayanan publik. Masyarakat dapat menggunakan data terbuka untuk memberikan umpan balik terhadap kualitas layanan dari instansi pemerintah.
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 
