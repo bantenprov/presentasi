@@ -89,6 +89,12 @@ Manfaat dari Satu Data :
 @fa[arrow-right]
 ---
 Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah : <br>
+<ul>
+<li class="fragment">**Get** the *word* out</li>
+<li class="fragment">Here is link [link](https://gitpitch.com)</li>
+<li class="fragment">Presentations for everyone</li>
+<li class="fragment">For <span style="color:red">everyone</span>!</li>
+</ul>
 - Master tabel
 - Data statistik
 - Dokumen teknis
