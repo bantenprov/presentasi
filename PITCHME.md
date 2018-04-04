@@ -150,7 +150,7 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/rk-sekolah-sd-mi
 @fa[arrow-down]
 +++
 
-- Persentase Penduduk Bekerja dan masih banyak lagi <br>
+- Persentase Penduduk Bekerja <br>
 https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
 
 
