@@ -66,8 +66,8 @@ Manfaat dari Satu Data :
 - Satu Data memudahkan pemerintah untuk menggali serta mengakses data. Hal ini dapat mencegah terjadinya pengulangan dataset dan mengurangi biaya akuisisi data. Selain itu, data terbuka juga dapat memfasilitasi masyarakat untuk turut serta dalam mengawasi dataset pemerintah dan membantu meningkatkan akurasi dataset.
 
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-left]
-+++
+@fa[arrow-right]
+---
 
 @title[Konten Slideshow]
 
