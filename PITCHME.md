@@ -23,7 +23,7 @@
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
-- Penggunaan dan pendistribusian: Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
+- Penggunaan dan pendistribusian: <br> Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
