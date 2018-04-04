@@ -34,19 +34,21 @@ Manfaat dari Satu Data :
 > Meningkatkan Kualitas Kebijakan Pemerintah 
 +++
 - Data merupakan komponen penting dalam pengambilan keputusan. Melalui Satu Data, efisiensi dari tata kelola data pemerintah dapat ditingkatkan sehingga data menjadi lebih akurat. Data yang akurat akan menciptakan kebijakan publik yang lebih tepat sasaran dan tepat guna.
+
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
 > Memperbaiki Alur Koordinasi Data
 +++
 - Melalui Satu Data, data standar dan metadata baku dan dapat memperbaiki alur koordinasi dan interoperabilitas data antar instansi. Pusat Data dan Informasi (Pusdatin) dari setiap instansi akan bertindak sebagai perpanjangan tangan pemerintah pusat dan pengelola utama data internal.
+
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
 > Meningkatkan Akuntabilitas Badan Publik
 +++
 - Satu  Data dapat mendukung pengawasan publik terhadap pemerintah dan membantu mengurangi tindakan korupsi dengan memungkinkan adanya transparansi yang lebih besar, karena data terbuka memudahkan proses pemantauan kegiatan pemerintah, seperti pengawasan pengeluaran anggaran dan dampak yang dihasilkan dari anggaran tersebut.
----
+
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
