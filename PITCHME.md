@@ -1,7 +1,7 @@
 ---?image=assets/image/bg.jpg
 ### Banten Satu Data
 ##### DATA BANTEN DALAM SATU PORTAL
-Visit the <a href="https://github.com" target="_blank">GitPitch</a> website.
+<a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a>website.
 ---
 @title[Satu Data]
 
