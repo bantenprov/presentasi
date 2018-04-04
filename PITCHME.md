@@ -94,11 +94,9 @@ Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 - Produk hukum
 ---
 ### Master tabel
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-right]
----
+<br>
+Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. adapun master tabel yang dipergunakan diantaranya adalah :
 
-Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. adapun master tabel yang dipergunakan diantaranya adalah : <br>
 - tabel kelompok pengguna aplikasi
 - tabel kode dan nama Organisasi Perangkat Daerah
 - tabel titik koordinat Ibukota provisi
