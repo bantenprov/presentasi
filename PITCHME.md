@@ -117,7 +117,12 @@ Data - data statistik diperkirakan akan menjadi pengisi konten terbanyak pada Ba
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
-Data statistika yang dapat disimpan dalam Banten Satu Data diantaranya :
+Data statistika yang dapat disimpan dalam Banten Satu Data :
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+
 - Angka Partisipasi Kasar
 - Angka Partisipasi Murni
 - Laju Inflasi berdasarkan Kelompok Pengeluaran
