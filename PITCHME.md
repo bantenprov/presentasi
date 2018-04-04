@@ -2,7 +2,7 @@
 ##### DATA BANTEN DALAM SATU PORTAL
 
 ---
-@title[PITCHME.md]
+@title[Satu Data]
 
 #### Satu Data adalah sebuah inisiatif untuk mendorong pengambilan kebijakan berdasarkan data.
 <br>
@@ -15,10 +15,15 @@
 #### Data tersedia dalam format terbuka yang mudah digunakan kembali dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah, serta untuk meningkatkan partisipasi masyarakat dalam mengawal pembangunan.
 ---
 
-@title[Fork Repository]
+@title[Open Data]
 
-#### Membuat slideshow konten dengan GitHub Flavored Markdown.
-#### Pada repository Pemerintah Provinsi Banten.
+#VSLIDE
+
+<br>
+Kriteria penting dari data terbuka adalah :
+- Ketersediaan dan akses: Data harus tersedia utuh dan bebas biaya. Akan lebih baik jika data dapat diunduh melalui internet. Data juga harus tersedia dalam bentuk yang mudah digunakan dan dapat diolah kembali
+- Penggunaan dan pendistribusian: Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
+- Terbuka untuk umum: Setiap orang bebas menggunakan dan mendistribusikan kembali dataset. Tidak diperkenankan adanya diskriminasi atas bidang usaha, orang, atau kelompok.
 
 Step 1. clone repository github
 > https://github.com/bantenprov/presentasi-online
