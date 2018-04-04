@@ -129,17 +129,30 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar
 @fa[arrow-down]
 +++
 
-- Angka Partisipasi Murni
-```
+- Angka Partisipasi Murni <br>
 https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-murni
-```
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 
-- Laju Inflasi berdasarkan Kelompok Pengeluaran
-- Rasio Ketersediaan Sekolah
-- Persentase Penduduk Bekerja dan masih banyak lagi
+- Laju Inflasi berdasarkan Kelompok Pengeluaran <br>
+https://statistik-01.dev.bantenprov.go.id/#/dashboard/li-pengeluaran
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+
+- Rasio Ketersediaan Sekolah <br>
+https://statistik-01.dev.bantenprov.go.id/#/dashboard/rk-sekolah-sd-mi
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+
+- Persentase Penduduk Bekerja dan masih banyak lagi <br>
+https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
+
 
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-right]
