@@ -61,7 +61,7 @@ Manfaat dari Satu Data :
 +++
 > Meningkatkan Akuntabilitas Badan Publik
 +++
-- Satu  Data dapat mendukung pengawasan publik terhadap pemerintah dan membantu mengurangi tindakan korupsi dengan memungkinkan adanya transparansi yang lebih besar, karena data terbuka memudahkan proses pemantauan kegiatan pemerintah, seperti pengawasan pengeluaran anggaran dan dampak yang dihasilkan dari anggaran tersebut.
+- Satu  Data dapat mendukung pengawasan publik terhadap pemerintah, dengan adanya transparansi yang lebih besar. Data terbuka memudahkan proses pemantauan kegiatan pemerintah, seperti pengawasan pengeluaran anggaran dan dampak yang dihasilkan dari anggaran tersebut.
 
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
@@ -92,5 +92,18 @@ Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 - Data statistik
 - Dokumen teknis
 - Produk hukum
+---
+### Master tabel
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
+---
+
+Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. adapun master tabel yang dipergunakan diantaranya adalah : <br>
+- tabel kelompok pengguna aplikasi
+- tabel kode dan nama Organisasi Perangkat Daerah
+- tabel titik koordinat Ibukota provisi
+- tabel titik koordinat Ibukota Kabupaten / Kota
+- tabel titik koordinat Ibukota Kecamatan
+- tabel titik koordinat Desa / kelurahan
 ---
 ## Terimakasih
