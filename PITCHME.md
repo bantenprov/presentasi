@@ -11,8 +11,8 @@
 
 #### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
 <br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+#### <span class="gold">Data tersedia dalam format terbuka yang mudah digunakan kembali</span>.
+#### <span class="gold">dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah</span>.
 ---
 
 @title[Fork Repository]
