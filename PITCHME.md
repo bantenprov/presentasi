@@ -90,15 +90,11 @@ Manfaat dari Satu Data :
 ---
 Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah : <br>
 <ul>
-<li class="fragment">**Get** the *word* out</li>
-<li class="fragment">Here is link [link](https://gitpitch.com)</li>
-<li class="fragment">Presentations for everyone</li>
-<li class="fragment">For <span style="color:red">everyone</span>!</li>
+<li class="fragment">Master Tabel</li>
+<li class="fragment">Data Statistik</li>
+<li class="fragment">Dokument Teknis</li>
+<li class="fragment">Produk Hukum</li>
 </ul>
-- Master tabel
-- Data statistik
-- Dokumen teknis
-- Produk hukum
 ---
 ##### Master Tabel
 Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. <br>
