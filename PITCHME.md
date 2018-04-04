@@ -1,10 +1,10 @@
-### Tim Banten Development
-##### Pengantar Praktis Markdown Presentasi Online
+### Banten Satu Data
+##### Seksi Pengembangan Aplikasi
 
 ---
 @title[PITCHME.md]
 
-#### GitPitch mengubah <span class="gold">PITCHME.md</span> menjadi
+#### Banten <span class="gold">Satu Data</span> menjadi
 #### *interactive online* and *offline slideshows*.
 <br>
 <span class="aside">Just like this one...</span>
@@ -162,3 +162,5 @@ Step through slide content in sequence to slowly reveal the bigger picture.
 </table>
 ---
 ## Terimakasih
+#### Dinas Komunikasi Infoemasi Statistika dan Persandian
+##### Seksi Pengembangan Aplikasi Informatika
