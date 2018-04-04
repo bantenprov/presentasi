@@ -180,6 +180,26 @@ https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
+- Menu Dashboard
+![Menu Dashboard](/assets/image/ckan-3.jpg)
 
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Membuat Datasets
+![Membuat Datasets](/assets/image/ckan-4.jpg)
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Menambah Datasets
+![Menambah Datasets](/assets/image/ckan-5.jpg)
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Menu Datasets
+![Menu Datasets](/assets/image/ckan-6.jpg)
+---
 
 ## Terimakasih
