@@ -46,6 +46,7 @@ Manfaat dari Satu Data :
 > Meningkatkan Akuntabilitas Badan Publik
 +++
 - Satu  Data dapat mendukung pengawasan publik terhadap pemerintah dan membantu mengurangi tindakan korupsi dengan memungkinkan adanya transparansi yang lebih besar, karena data terbuka memudahkan proses pemantauan kegiatan pemerintah, seperti pengawasan pengeluaran anggaran dan dampak yang dihasilkan dari anggaran tersebut.
+---
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
