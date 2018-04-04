@@ -7,12 +7,18 @@
 #### Satu Data adalah sebuah inisiatif untuk mendorong pengambilan kebijakan berdasarkan data.
 <br>
 <span class="aside">Prinsip data terbuka  dalam merilis data</span>
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
 
 #### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
 <br>
 +++
 #### Data tersedia dalam format terbuka yang mudah digunakan kembali dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah, serta untuk meningkatkan partisipasi masyarakat dalam mengawal pembangunan.
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
 
 @title[Open Data]
@@ -30,6 +36,8 @@
 @fa[arrow-down]
 +++
 - Terbuka untuk umum : <br> Setiap orang bebas menggunakan dan mendistribusikan kembali dataset. Tidak diperkenankan adanya diskriminasi atas bidang usaha, orang, atau kelompok.
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
 
 Manfaat dari Satu Data :
