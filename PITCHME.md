@@ -97,10 +97,7 @@ Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 ---
-+++
-
-Master tabel yang dipergunakan diantaranya adalah :
-<br>
+Master tabel yang dipergunakan diantaranya adalah : <br>
 - tabel kelompok pengguna aplikasi
 - tabel kode dan nama Organisasi Perangkat Daerah
 - tabel titik koordinat Ibukota provisi
