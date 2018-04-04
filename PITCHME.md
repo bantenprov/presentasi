@@ -124,7 +124,7 @@ Data statistika yang dapat disimpan dalam Banten Satu Data :
 +++
 - Angka Partisipasi Kasar
 ```
-https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar
+<a href="https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar" target="_blank">Statistik</a>
 ```
 
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
