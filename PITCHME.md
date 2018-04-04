@@ -11,8 +11,8 @@
 
 #### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
 <br>
-#### <span class="gold">Data tersedia dalam format terbuka yang mudah digunakan kembali</span>.
-#### <span class="gold">dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah</span>.
+#### Data tersedia dalam format terbuka yang mudah digunakan kembali.
+#### dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah.
 ---
 
 @title[Fork Repository]
