@@ -61,16 +61,10 @@ Manfaat dari Satu Data :
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
-
-@title[Buat branch]
-
-Step 2. Membuat branch untuk presentasi anda
-```shell
-$ git checkout -b NAMA-PRESESNTASI-ANDA .
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
-@fa[arrow-down]
+> Efisiensi
+- Satu Data memudahkan pemerintah untuk menggali serta mengakses data. Hal ini dapat mencegah terjadinya pengulangan dataset dan mengurangi biaya akuisisi data. Selain itu, data terbuka juga dapat memfasilitasi masyarakat untuk turut serta dalam mengawasi dataset pemerintah dan membantu meningkatkan akurasi dataset.
 +++
+
 @title[Konten Slideshow]
 
 Step 3. Membuat file PITCHME.md
