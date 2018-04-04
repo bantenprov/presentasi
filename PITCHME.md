@@ -118,9 +118,6 @@ Data - data statistik diperkirakan akan menjadi pengisi konten terbanyak pada Ba
 +++
 Data statistika yang dapat disimpan dalam Banten Satu Data :
 
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-down]
-+++
 <ul>
 <li class="fragment">- Angka Partisipasi Kasar [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar)</li>
 <li class="fragment">- Angka Partisipasi Murni [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-murni)</li>
