@@ -1,7 +1,7 @@
 ---?image=assets/image/bg.jpg
 ### Banten Satu Data
 ##### DATA BANTEN DALAM SATU PORTAL
-<a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a>website.
+<a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a> website.
 ---
 @title[Satu Data]
 
