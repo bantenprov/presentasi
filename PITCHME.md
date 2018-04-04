@@ -9,8 +9,7 @@
 <span class="aside">Prinsip data terbuka  dalam merilis data</span>
 ---
 
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
+#### Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
 <br>
 #### Menulis dengan <span class="gold">Markdown</span>.
 #### Kemudian  <span class="gold">Git-Commit di Github</span>.
