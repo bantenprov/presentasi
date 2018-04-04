@@ -94,6 +94,7 @@ Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah :
 ---
 ##### Master Tabel
 Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. <br>
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
@@ -107,6 +108,8 @@ Master tabel yang dipergunakan diantaranya adalah : <br>
 ---
 ### Data statistik
 Data - data statistik diperkirakan akan menjadi pengisi konten terbanyak pada Banten satu data, mengingat  kriteris dan karakteristik satu data didepan.
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
 Data statistika yang dapat disimpan dalam Banten Satu Data diantaranya :
@@ -115,5 +118,6 @@ Data statistika yang dapat disimpan dalam Banten Satu Data diantaranya :
 - Laju Inflasi berdasarkan Kelompok Pengeluaran
 - Rasio Ketersediaan Sekolah
 - Persentase Penduduk Bekerja dan masih banyak lagi
+
 ---
 ## Terimakasih
