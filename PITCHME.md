@@ -124,7 +124,7 @@ Data statistika yang dapat disimpan dalam Banten Satu Data :
 <ul>
 <li class="fragment">- Angka Partisipasi Kasar [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar)</li>
 <li class="fragment">- Angka Partisipasi Murni [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-murni)</li>
-<li class="fragment">- Laju Inflasi berdasarkan Kelompok Pengeluaran [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/li-pengeluaran)</li>
+<li class="fragment">- Laju Inflasi Kelompok Pengeluaran [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/li-pengeluaran)</li>
 <li class="fragment">- Rasio Ketersediaan Sekolah [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/rk-sekolah-sd-mi)</li>
 <li class="fragment">- Persentase Penduduk Bekerja [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja)</li>
 </ul>
