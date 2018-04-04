@@ -102,15 +102,13 @@ Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian
 @fa[arrow-down]
 +++
 Master tabel yang dipergunakan diantaranya adalah : <br>
-- Tabel kelompok pengguna aplikasi
-- Tabel kode dan nama Organisasi Perangkat Daerah
-- Tabel titik koordinat Ibukota provisi
-- Tabel titik koordinat Ibukota Kabupaten / Kota
-- Tabel titik koordinat Ibukota Kecamatan
-- Tabel titik koordinat Desa / kelurahan
-
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-right]
+<ul>
+<li class="fragment">Tabel Kelompok Pengguna Aplikasi</li>
+<li class="fragment">Tabel Kode dan Nama OPD</li>
+<li class="fragment">Tabel Titik Koordinat Ibukota Provinsi</li>
+<li class="fragment">Tabel Titik Koordinat Kabupaten/Kota</li>
+<li class="fragment">Tabel Titik Koordinat Desa/Kelurahan</li>
+</ul>
 ---
 
 ### Data statistik
