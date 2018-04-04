@@ -36,6 +36,7 @@
 @fa[arrow-down]
 +++
 - Terbuka untuk umum : <br> Setiap orang bebas menggunakan dan mendistribusikan kembali dataset. Tidak diperkenankan adanya diskriminasi atas bidang usaha, orang, atau kelompok.
+
 <span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-right]
 ---
