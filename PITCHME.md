@@ -125,47 +125,13 @@ Data statistika yang dapat disimpan dalam Banten Satu Data :
 @fa[arrow-down]
 +++
 <ul>
-<li class="fragment">**Get** the *word* out</li>
-<li class="fragment">- Angka Partisipasi Kasar [link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar)</li>
-<li class="fragment">Presentations for everyone</li>
-<li class="fragment">For <span style="color:red">everyone</span>!</li>
+<li class="fragment">- Angka Partisipasi Kasar [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar)</li>
+<li class="fragment">- Angka Partisipasi Murni [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-murni)</li>
+<li class="fragment">- Laju Inflasi berdasarkan Kelompok Pengeluaran [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/li-pengeluaran)</li>
+<li class="fragment">- Rasio Ketersediaan Sekolah [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/rk-sekolah-sd-mi)</li>
+<li class="fragment">- Persentase Penduduk Bekerja [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja)</li>
 </ul>
-- Angka Partisipasi Kasar <br>
-https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar
-
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-down]
-+++
-
-- Angka Partisipasi Murni <br>
-https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-murni
-
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-down]
-+++
-
-- Laju Inflasi berdasarkan Kelompok Pengeluaran <br>
-https://statistik-01.dev.bantenprov.go.id/#/dashboard/li-pengeluaran
-
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-down]
-+++
-
-- Rasio Ketersediaan Sekolah <br>
-https://statistik-01.dev.bantenprov.go.id/#/dashboard/rk-sekolah-sd-mi
-
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-down]
-+++
-
-- Persentase Penduduk Bekerja <br>
-https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja
-
-
-<span style="font-size:0.6em; color:gray">Lanjut.</span>
-@fa[arrow-right]
 ---
-
 ### Produk hukum
 
 - Peraturan Gubernur Banten No.42 Tahun 2016
