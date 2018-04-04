@@ -4,10 +4,9 @@
 ---
 @title[PITCHME.md]
 
-#### Satu Data adalah sebuah inisiatif untuk mendorong
-#### *pengambilan kebijakan berdasarkan data*.
+#### Satu Data adalah sebuah inisiatif untuk mendorong pengambilan kebijakan berdasarkan data.
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">Prinsip data terbuka  dalam merilis data</span>
 ---
 
 #### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
