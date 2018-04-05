@@ -1,166 +1,190 @@
 ### Banten Satu Data
+<<<<<<< HEAD
 ##### Seksi Pengembangan Aplikasi
 
+=======
+##### DATA BANTEN DALAM SATU PORTAL
+<a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a> website.
+>>>>>>> 8530048648ee5cd726eb34b752ce60b5f373cece
 ---
-@title[PITCHME.md]
+@title[Satu Data]
 
+<<<<<<< HEAD
 #### Banten <span class="gold">Satu Data</span> menjadi
 #### *interactive online* and *offline slideshows*.
+=======
+#### Satu Data adalah sebuah inisiatif untuk mendorong pengambilan kebijakan berdasarkan data.
+>>>>>>> 8530048648ee5cd726eb34b752ce60b5f373cece
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">Dari DATA Menjadi KEBIJAKAN</span>
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
 
-#### Tidak lagi <span class="gray">Menggunakan Keynote</span>.
-#### Tidak lagi <span class="gray">Menggunakan Powerpoint</span>.
-<br>
-#### Menulis dengan <span class="gold">Markdown</span>.
-#### Kemudian  <span class="gold">Git-Commit di Github</span>.
+Data terbuka adalah <span class="gray">data yang dapat digunakan secara bebas, dimanfaatkan, dan didistribusikan</span>.
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+
+Data tersedia dalam format terbuka yang mudah digunakan kembali dengan tujuan untuk meningkatkan transparansi dan akuntabilitas pemerintah, serta untuk meningkatkan partisipasi masyarakat dalam mengawal pembangunan.
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
 
-@title[Fork Repository]
+@title[Open Data]
+<br>
+### Kriteria dari data terbuka adalah :
++++
+- Ketersediaan dan akses : <br> Data harus tersedia utuh dan bebas biaya. Akan lebih baik jika data dapat diunduh melalui internet. Data juga harus tersedia dalam bentuk yang mudah digunakan dan dapat diolah kembali.
 
-#### Membuat slideshow konten dengan GitHub Flavored Markdown.
-#### Pada repository Pemerintah Provinsi Banten.
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Penggunaan dan pendistribusian : <br> Data yang digunakan dan didistribusikan kembali harus memenuhi syarat-syarat yang telah ditentukan.
 
-Step 1. clone repository github
-> https://github.com/bantenprov/presentasi-online
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Terbuka untuk umum : <br> Setiap orang bebas menggunakan dan mendistribusikan kembali dataset. Tidak diperkenankan adanya diskriminasi atas bidang usaha, orang, atau kelompok.
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
+---
+
+Manfaat dari Satu Data :
+> Meningkatkan Kualitas Kebijakan Pemerintah 
++++
+- Data merupakan komponen penting dalam pengambilan keputusan. Melalui Satu Data, efisiensi dari tata kelola data pemerintah dapat ditingkatkan sehingga data menjadi lebih akurat. Data yang akurat akan menciptakan kebijakan publik yang lebih tepat sasaran dan tepat guna.
 
 <span style="font-size:0.6em; color:gray">Selanjutnya.</span>
 @fa[arrow-down]
 +++
-@title[Buat branch]
+> Memperbaiki Alur Koordinasi Data
++++
+- Melalui Satu Data, data standar dan metadata baku dan dapat memperbaiki alur koordinasi dan interoperabilitas data antar instansi. Pusat Data dan Informasi (Pusdatin) dari setiap instansi akan bertindak sebagai perpanjangan tangan pemerintah pusat dan pengelola utama data internal.
 
-Step 2. Membuat branch untuk presentasi anda
-```shell
-$ git checkout -b NAMA-PRESESNTASI-ANDA .
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
 +++
-@title[Konten Slideshow]
+> Meningkatkan Akuntabilitas Badan Publik
++++
+- Satu  Data dapat mendukung pengawasan publik terhadap pemerintah, dengan adanya transparansi yang lebih besar. Data terbuka memudahkan proses pemantauan kegiatan pemerintah, seperti pengawasan pengeluaran anggaran dan dampak yang dihasilkan dari anggaran tersebut.
 
-Step 3. Membuat file PITCHME.md
-```
-# Hello, World!  ---  ## The End.
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
++++
+> Peningkatan Layanan Publik
++++
+- Satu Data dapat memberikan akses kepada masyarakat untuk menggunakan data sesuai dengan kebutuhannya  dan berkontribusi pada peningkatan pelayanan publik. Masyarakat dapat menggunakan data terbuka untuk memberikan umpan balik terhadap kualitas layanan dari instansi pemerintah.
 
-#VSLIDE
-Step 4. Commit di Github
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
++++
+> Efisiensi
++++
+- Satu Data memudahkan pemerintah untuk menggali serta mengakses data. Hal ini dapat mencegah terjadinya pengulangan dataset dan mengurangi biaya akuisisi data. Selain itu, data terbuka juga dapat memfasilitasi masyarakat untuk turut serta dalam mengawasi dataset pemerintah dan membantu meningkatkan akurasi dataset.
 
-#VSLIDE
-Step 5. GET THE WORD OUT!
-```
-https://gitpitch.com/bantenprov/presentasi-online/$branch
-```
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
 
-@title[Tips]
-## Tips!
-Untuk *best viewing experience*   
-tekan **F** key untuk fullscreen slideshow.
+@title[Konten]
+### Konten Banten Satu Data
 
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-right]
 ---
-@title[Slide Gambar]
-### Slide Gambar
-## [ Inline ]
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+Konten yang menjadi materi dalam pengisian Banten Satu Data diantaranya adalah : <br>
+<ul>
+<li class="fragment">Master Tabel</li>
+<li class="fragment">Data Statistik</li>
+<li class="fragment">Dokument Teknis</li>
+<li class="fragment">Produk Hukum</li>
+</ul>
+---
+##### Master Tabel
+Master tabel dalam banten satu data adalah data yang dipergunakan dalam sebagian besar atau seluruh aplikasi, atau data yang diperlukan untuk terbentuknya sistem informasi / aplikasi yang terintegrasi. <br>
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
-
-#VSLIDE
-#### Membuat Visual konten
-Gunakan gambar untuk memberikan visualisasi di presentasi slideshow Anda.
-<span style="font-size:0.6em; color:gray">Contoh Gambar.</span>
-@fa[arrow-down]
-
-#VSLIDE
-
-```
-![contoh](/assets/image/gambar.jpg)
-```
-<br>
-![gambar](/assets/image/wps-office.png)
-
++++
+Master tabel yang dipergunakan diantaranya adalah : <br>
+<ul>
+<li class="fragment">Tabel Kelompok Pengguna Aplikasi</li>
+<li class="fragment">Tabel Kode dan Nama OPD</li>
+<li class="fragment">Tabel Titik Koordinat Ibukota Provinsi</li>
+<li class="fragment">Tabel Titik Koordinat Kabupaten/Kota</li>
+<li class="fragment">Tabel Titik Koordinat Desa/Kelurahan</li>
+</ul>
 ---
 
-@title[slide Video]
-## Slides Video
-## [ Inline ]
+### Data statistik
+Data - data statistik diperkirakan akan menjadi pengisi konten terbanyak pada Banten satu data, mengingat  kriteria dan karakteristik satu data didepan.
 
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
++++
+Data statistika yang dapat disimpan dalam Banten Satu Data :
 
-#VSLIDE
-
-#### Jadikan Presentasi Anda Hidup
-
-<br>
-
-Pasang *YouTube*, *Vimeo*, *MP4* and *WebM* dalam slide Presentasi.
-
-#VSLIDE
-
-![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
-
-#VSLIDE
-
-![Vimeo Video](https://player.vimeo.com/video/125471012)
-
-#VSLIDE
-
-![MP4 Video](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
-
+<ul>
+<li class="fragment">- Angka Partisipasi Kasar [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-kasar)</li>
+<li class="fragment">- Angka Partisipasi Murni [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/ap-murni)</li>
+<li class="fragment">- Laju Inflasi Kelompok Pengeluaran [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/li-pengeluaran)</li>
+<li class="fragment">- Rasio Ketersediaan Sekolah [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/rk-sekolah-sd-mi)</li>
+<li class="fragment">- Persentase Penduduk Bekerja [Website Link](https://statistik-01.dev.bantenprov.go.id/#/dashboard/pp-bekerja)</li>
+</ul>
 ---
-## Slide Fragmen
-<span style="font-size:0.6em; color:gray">Selanjutnya.</span>
+### Produk hukum
+
+- Peraturan Gubernur Banten No.42 Tahun 2016
+- Peraturan Gubernur Banten No.38 Tahun 2017
+---
+### Contoh Penggunaan Aplikasi
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
 @fa[arrow-down]
++++
+- Registrasi Akun Pengguna
+![Registrasi Akun](/assets/image/ckan-1.jpg)
 
-#VSLIDE
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Login Aplikasi
+![Login Aplikasi](/assets/image/ckan-2.jpg)
 
-#### Mengungkapkan Konsep Slide Piecemeal
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Menu Dashboard
+![Menu Dashboard](/assets/image/ckan-3.jpg)
 
-<br>
-Step through slide content in sequence to slowly reveal the bigger picture.
-- Java
-- Groovy  
-- Kotlin   
-- Scala   
-- The JVM rocks!
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Membuat Datasets
+![Membuat Datasets](/assets/image/ckan-4.jpg)
 
-#VSLIDE
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Yogi</td>
-    <td>Hermawan</td>
-    <td>25</td>
-  </tr>
-   <tr>
-    <td>Kokoh</td>
-    <td>Aulia</td>
-    <td>94</td>
-  </tr>
-   <tr>
-    <td>Fery</td>
-    <td>Pratama</td>
-    <td>43</td>
-  </tr>
-</table>
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Menambah Datasets
+![Menambah Datasets](/assets/image/ckan-5.jpg)
+
+<span style="font-size:0.6em; color:gray">Lanjut.</span>
+@fa[arrow-down]
++++
+- Menu Datasets
+![Menu Datasets](/assets/image/ckan-6.jpg)
 ---
+<<<<<<< HEAD
 ## Terimakasih
 #### Dinas Komunikasi Infoemasi Statistika dan Persandian
 ##### Seksi Pengembangan Aplikasi Informatika
+=======
+
+## Terimakasih
+>>>>>>> 8530048648ee5cd726eb34b752ce60b5f373cece
