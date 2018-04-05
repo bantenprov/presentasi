@@ -1,7 +1,6 @@
 ### Banten Satu Data
 ##### Seksi Pengembangan Aplikasi
 
-=======
 ##### DATA BANTEN DALAM SATU PORTAL
 <a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a> website.
 ---
