@@ -1,20 +1,16 @@
 ### Banten Satu Data
-<<<<<<< HEAD
 ##### Seksi Pengembangan Aplikasi
 
 =======
 ##### DATA BANTEN DALAM SATU PORTAL
 <a href="https://ckan-03.dev.bantenprov.go.id" target="_blank">Satudata</a> website.
->>>>>>> 8530048648ee5cd726eb34b752ce60b5f373cece
 ---
 @title[Satu Data]
 
-<<<<<<< HEAD
 #### Banten <span class="gold">Satu Data</span> menjadi
 #### *interactive online* and *offline slideshows*.
 =======
 #### Satu Data adalah sebuah inisiatif untuk mendorong pengambilan kebijakan berdasarkan data.
->>>>>>> 8530048648ee5cd726eb34b752ce60b5f373cece
 <br>
 <span class="aside">Dari DATA Menjadi KEBIJAKAN</span>
 
