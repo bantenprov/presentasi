@@ -7,8 +7,7 @@
 @title[Satu Data]
 
 #### Banten <span class="gold">Satu Data</span> menjadi
-#### *interactive online* and *offline slideshows*.
-=======
+
 #### Satu Data adalah sebuah inisiatif untuk mendorong pengambilan kebijakan berdasarkan data.
 <br>
 <span class="aside">Dari DATA Menjadi KEBIJAKAN</span>
