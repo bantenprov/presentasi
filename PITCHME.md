@@ -180,11 +180,8 @@ Data statistika yang dapat disimpan dalam Banten Satu Data :
 - Menu Datasets
 ![Menu Datasets](/assets/image/ckan-6.jpg)
 ---
-<<<<<<< HEAD
 ## Terimakasih
 #### Dinas Komunikasi Infoemasi Statistika dan Persandian
 ##### Seksi Pengembangan Aplikasi Informatika
-=======
-
+---
 ## Terimakasih
->>>>>>> 8530048648ee5cd726eb34b752ce60b5f373cece
