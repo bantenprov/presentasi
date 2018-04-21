@@ -1,8 +1,9 @@
-## Voip BantOS
+## VoIP BantOS
 
-#### Implementasi Oven Voip di BantOS
+#### Implementasi Oven VoIP di BantOS
 ---
 ### Oven VoIP <br/> 
-Voip - Voice Over Internet Protocol
-- Teknologi yang memanfaatkan Internet Protocol untuk menyediakan komunikasi voice secara elektronis dan real-time.
+#### VoIP - Voice over Internet Protocol
+Teknologi yang memanfaatkan Internet Protocol untuk menyediakan komunikasi voice secara elektronis dan real-time.
+
 ---
