@@ -4,7 +4,7 @@
 ---
 ### SIKomAR <br/> 
 #### Sistem Komunikasi Antar Rakyat
-Open VoIP : <br/>
+Teknologi Open VoIP : <br/>
 Teknologi komunikasi yang memanfaatkan Internet Protocol untuk menyediakan komunikasi voice secara elektronis dan real-time.
 
 @fa[arrow-right]
