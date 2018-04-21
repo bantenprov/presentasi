@@ -20,9 +20,10 @@ Teknologi yang memanfaatkan Internet Protocol untuk menyediakan komunikasi voice
 ---
 ### Manfaat VoIP
 #### Penghematan biaya telepon SLJJ/SLI dengan tidak melanggar hukum
-- Metode Closed User Group (CUG)
--- Antar kantor
--- Antar sekolah
--- Antar institusi pemerintahan
+Metode Closed User Group (CUG) : 
+- Antar kantor
+- Antar sekolah
+- Antar institusi pemerintahan
 
+@fa[arrow-down]
 ---
