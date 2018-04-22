@@ -42,7 +42,7 @@ Dalam contoh diatas, antara KP3B dan Kab. Lebak terhubung dengan VPN IP atau IPI
 @fa[arrow-right]
 ---
 ### Komponen VoIP
-_Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung.
+Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung.
 
 - Protocol
 - VoIP Server
@@ -54,4 +54,10 @@ _Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung.
 +++
 
 ### Protocol
+Secara umum, terdapat dua teknologi yang digunakan untuk VoIP :
+
+- H323 merupakan teknologi yang dikembangkan oleh ITU (International Telecommunication Union).
+- SIP (Session Initiation Protocol) merupakan teknologi yang dikembangkan IETF (Internet Enggineering Task Force).
+
+---
 
