@@ -26,8 +26,9 @@ Metode Closed User Group (CUG) :
 - Antar sekolah
 - Antar institusi pemerintahan
 
-@fa[arrow-down]
-+++
+@fa[arrow-right]
+---
+
 ### Jaringan VoIP
 ![voip](/assets/image/voip.png)
 
