@@ -54,10 +54,11 @@ Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung.
 +++
 
 ### Protocol
-Secara umum, terdapat dua teknologi yang digunakan untuk VoIP :
+Secara umum, terdapat dua teknologi protocol yang digunakan untuk VoIP :
 <br>
 - H323 merupakan teknologi yang dikembangkan oleh ITU (International Telecommunication Union).
 - SIP (Session Initiation Protocol) merupakan teknologi yang dikembangkan IETF (Internet Enggineering Task Force).
 
+@fa[arrow-right]
 ---
 
