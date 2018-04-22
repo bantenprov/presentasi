@@ -43,9 +43,6 @@ Dalam contoh diatas, antara KP3B dan Kab. Lebak terhubung dengan VPN IP atau IPI
 ---
 ### Komponen VoIP
 Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung. 
-+++
-Beberapa komponen yang harus ada dalam VoIP :
-
 - Protocol
 - VoIP Server
 - Soft Switch
