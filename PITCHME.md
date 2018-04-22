@@ -42,12 +42,13 @@ Dalam contoh diatas, antara KP3B dan Kab. Lebak terhubung dengan VPN IP atau IPI
 @fa[arrow-right]
 ---
 ### Komponen VoIP
-> Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung. 
-* Protocol
-* VoIP Server
-* Soft Switch
-* SoftPhone (Software)
-* VoIP Gateway
+Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung. 
+
+- Protocol
+- VoIP Server
+- Soft Switch
+- SoftPhone (Software)
+- VoIP Gateway
 
 @fa[arrow-down]
 +++
