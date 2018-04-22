@@ -53,7 +53,7 @@ Komunikasi menggunakan VoIP dibutuhkan beberapa komponen pendukung.
 @fa[arrow-down]
 +++
 
-### Protocol
+### VoIP Protocol
 Secara umum, terdapat dua teknologi protocol yang digunakan untuk VoIP :
 <br>
 - H323 merupakan teknologi yang dikembangkan oleh ITU (International Telecommunication Union).
