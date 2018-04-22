@@ -28,10 +28,15 @@ Metode Closed User Group (CUG) :
 
 @fa[arrow-down]
 +++
+### Jaringan VoIP
+![voip](/assets/image/voip.png)
+
+@fa[arrow-down]
++++
 ### WAN (Wide Area Network)
 ![Trunk](/assets/image/trunk.png)
 
 Dalam contoh diatas, antara KP3B dan Kab. Lebak terhubung dengan VPN IP atau IPIP melalui ISP, kedua lokasi terhubung dengan internet.
 
-@fa[arrow-down]
+@fa[arrow-right]
 ---
