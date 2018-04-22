@@ -30,7 +30,7 @@ Metode Closed User Group (CUG) :
 ---
 
 ### Jaringan VoIP
-![voip](/assets/image/voip.png)
+![voip](/assets/image/lan_network.jpg)
 
 @fa[arrow-down]
 +++
