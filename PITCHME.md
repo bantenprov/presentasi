@@ -1,6 +1,6 @@
 ## SIKomAR BantOS
 
-#### Implementasi Teknologi Oven VoIP di BantOS
+#### Implementasi Teknologi Open VoIP di BantOS
 ---
 ### SIKomAR <br/> 
 #### Sistem Komunikasi Antar Rakyat
